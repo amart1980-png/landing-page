@@ -164,3 +164,11 @@ ul {
 .cta-button {
     justify-content: center;
 }
+
+.footer {
+    color: #f9faf8;
+    font-size: 12px;
+    justify-content: center;
+    padding: 20px;
+
+}
